@@ -28,6 +28,46 @@
       ],
       "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
       "duration": "5 months"
+    },
+        {
+      "company_name": "Smarthis",
+      "occupation": "RPA Developer Jr",
+      "stack": [
+        "RPA",
+        "UiPath"
+      ],
+      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
+      "duration": "5 months"
+    },
+        {
+      "company_name": "Queiroz Cavalcanti Advocacia",
+      "occupation": "Technician Infraestructure Jr",
+      "stack": [
+        "RPA",
+        "UiPath"
+      ],
+      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
+      "duration": "5 months"
+    },
+        {
+      "company_name": "Musashi do Brasil",
+      "occupation": "Network Intern",
+      "stack": [
+        "RPA",
+        "UiPath"
+      ],
+      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
+      "duration": "11 months"
+    },
+        {
+      "company_name": "Diagmax Medicina Diagnóstica",
+      "occupation": "Network Intern",
+      "stack": [
+        "RPA",
+        "UiPath"
+      ],
+      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
+      "duration": "1 year"
     }
   ],
   "education": [
@@ -49,12 +89,12 @@
     {
       "logo": "https://unyleya.edu.br/assets/faculdade/img/logo_uny_colorida.png",
       "institution": "Faculdade Unyleya",
-      "occupation": "Pós-graduação Lato Senso em Engenharia de IoT - Internet das Coisas"
+      "occupation": "Pós-graduação Lato Senso em \r\nEngenharia de IoT - Internet das Coisas"
     },
     {
       "logo": "https://www.cin.ufpe.br/~imprensa/marcacinpng/VC",
       "institution": "Universidade Federal de Pernambuco - Centro de Informática ",
-      "occupation": "Pós-graduação Scricto Senso em Ciencia da Computação em redes IoT - Internet das Coisas"
+      "occupation": "Pós-graduação Scricto Senso em Ciencia da \\nComputação em redes IoT - Internet das Coisas"
     }
   ]
 }
