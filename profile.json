@@ -26,77 +26,35 @@
         "RPA",
         "UiPath"
       ],
-      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "5 months"
-    },
-        {
-      "company_name": "Smarthis",
-      "occupation": "RPA Developer Jr",
-      "stack": [
-        "RPA",
-        "UiPath",
-        "Orchestrator",
-        "SQL",
-      ],
       "company_image": "https://1drv.ms/u/s!AszQbqSHwoPOiJgYi5iUz_4UHFkqkA?e=DLpn37",
       "duration": "5 months"
-    },   
-      {
-      "company_name": "Queiroz Cavalcanti Advocacia",
-      "occupation": "Infrastructure Technician Jr",
-      "stack": [
-        "RPA",
-        "UiPath"
-      ],
-      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "11 months"
-    },
-        {
-      "company_name": "Musashi do Brasil",
-      "occupation": "Network Intern",
-      "stack": [
-        "RPA",
-        "UiPath"
-      ],
-      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "11 months"
-    },
-        {
-      "company_name": "Diagmax Medicina Diagnóstica",
-      "occupation": "Network Intern",
-      "stack": [
-        "RPA",
-        "UiPath"
-      ],
-      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "1 year"
     }
   ],
   "education": [
     {
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/300px-Senac_logo.svg.png",
       "institution": "Senac Pernambuco",
-      "occupation": "Técnico em Administração - Inicio 2013.2, Fim 2015.1"
+      "occupation": "Técnico em Administração"
     },
     {
       "logo": "https://www.unisaomiguel.edu.br/img/unisaomiguel.png",
       "institution": "Centro Universitário São Miguel",
-      "occupation": "Tecnologia em Segurança da Informação - Inicio 2018.1, Fim 2020.1"
+      "occupation": "Tecnologia em Segurança da Informação"
     },
     {
       "logo": "https://s3.amazonaws.com/gupy5/production/companies/981/career/2017/images/2020-08-24_22-08_logo.png",
       "institution": "Centro Universitário UniFBV",
-      "occupation": "Bacharelado em Engenharia de Computação - Inicio 2021.1 , Fim previsto para 2025.2"
+      "occupation": "Bacharelado em Engenharia de Computação"
     },
     {
       "logo": "https://unyleya.edu.br/assets/faculdade/img/logo_uny_colorida.png",
       "institution": "Faculdade Unyleya",
-      "occupation": "Pós-graduação Lato Senso em Engenharia de IoT 'Internet das Coisas' - Inicio 2021.1, Fim 2022.1"
+      "occupation": "Pós-graduação Lato Senso em Engenharia de IoT - Internet das Coisas"
     },
     {
       "logo": "https://www.cin.ufpe.br/~imprensa/marcacinpng/VC",
       "institution": "Universidade Federal de Pernambuco - Centro de Informática ",
-      "occupation": " Inicio 2022.1, Fim previsto para 2023.2 Pós-graduação Stricto Senso em Ciencia da Computação em redes IoT 'Internet das Coisas'"
+      "occupation": "Pós-graduação Scricto Senso em Ciencia da Computação em redes IoT - Internet das Coisas"
     }
   ]
 }
