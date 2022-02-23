@@ -42,24 +42,34 @@
       "duration": "5 months"
     },   
       {
-      "company_name": "Avanade",
-      "occupation": "Anls, Business Analysis Sr",
+      "company_name": "Queiroz Cavalcanti Advocacia",
+      "occupation": "Infrastructure Technician Jr",
       "stack": [
         "RPA",
         "UiPath"
       ],
       "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "5 months"
+      "duration": "11 months"
     },
         {
-      "company_name": "Avanade",
-      "occupation": "Anls, Business Analysis Sr",
+      "company_name": "Musashi do Brasil",
+      "occupation": "Network Intern",
       "stack": [
         "RPA",
         "UiPath"
       ],
       "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
-      "duration": "5 months"
+      "duration": "11 months"
+    },
+        {
+      "company_name": "Diagmax Medicina Diagnóstica",
+      "occupation": "Network Intern",
+      "stack": [
+        "RPA",
+        "UiPath"
+      ],
+      "company_image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Avanade_logo17.png/375px-Avanade_logo17.png",
+      "duration": "1 year"
     }
   ],
   "education": [
